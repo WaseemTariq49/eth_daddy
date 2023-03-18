@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ETH Daddy 
 
 ## Technology Stack & Tools
@@ -29,3 +30,7 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+=======
+# eth_daddy
+A clone application of GoDaddy to sell domains in Web3.0 world using crypto
+>>>>>>> 948b1b0c391d78ae62ffbe3d26272442959ab94e
